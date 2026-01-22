@@ -1,11 +1,11 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #67cfff; /* Very light grey */
+    background-color: #6adcff; /* Very light grey */
 }
 
 /* Style for all paragraphs */
 p {
-    color: rgba(0, 0, 0, 0)0, 0);
+    color: rgba(90, 194, 255, 0)0, 0);
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
@@ -13,7 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb(0, 162, 255); /* Adds an orange border around the heading */
+    border: 2px solid #6adcff9c; /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
-
-
