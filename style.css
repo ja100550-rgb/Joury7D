@@ -1,11 +1,11 @@
- Change the background of the entire visible page */
+Change the background of the entire visible page */
 body {
-    background-color: #bde0fe; /* Very light grey */
+    background-color: #bee0fe; /* Very light blue */
 }
 
 /* Style for all paragraphs */
 p {
-    color: #bde0fe, 0);
+    color: #bee0fe00, 0);
     font-size: 14px;
     font-family: 'Times New Roman', serif;
 }
